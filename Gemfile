@@ -37,4 +37,9 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+gem 'pry'
+gem 'bcrypt'
+gem 'koala'
+gem 'dotenv'
+gem 'omniauth'
+gem 'omniauth-facebook'
