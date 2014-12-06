@@ -1,0 +1,3 @@
+class FightsController < ApplicationController
+
+end
